@@ -1,9 +1,9 @@
 /*
  * @Author: your name
  * @Date: 2022-04-19 14:24:56
- * @LastEditTime: 2022-04-19 14:27:52
+ * @LastEditTime: 2022-04-19 14:43:39
  * @LastEditors: Please set LastEditors
- * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @Description: 策略模式
  * @FilePath: /Design-Patterns/Proxy/PriceProxy.js
  */
 // 定义一个询价处理器对象
